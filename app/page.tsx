@@ -1,4 +1,3 @@
-import Image from "next/image";
 import './index.css';
 import Link from "next/link";
 
